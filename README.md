@@ -1,4 +1,5 @@
-Document Question Answering System
+## Document Question Answering System
+
 • Developed a comprehensive DQAS using LangChain, Django, and a vector database.
 • Implemented robust login and authentication for secure user access.
 • Designed a user-friendly basic design template for a seamless user experience.
